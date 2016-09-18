@@ -1,0 +1,50 @@
+<html>
+<head>
+<title> Âåñåëüå íà÷èíàåòñÿ çäåñü </title>
+<style type="text/css">
+ button.new {
+background: -webkit-gradient(linear, 0 0, 0 100%, from(#FA8072), to(#FFE4E1));
+background: -moz-linear-gradient(#FA8072, #FFE4E1);
+border: 2px inset #FFC0CB;
+padding: 0 0 0 7px;
+height: 60px;
+width: 250px;
+color: #000
+-webkit-box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.2);
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.2);
+text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.3);
+font-size: 22px;
+line-height: 58px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+border: 2px solid #eee;
+margin: 50px 0 0 50px;
+overflow: hidden;
+display: block;
+text-align: center;
+-webkit-transition: All 0.5s ease;
+-moz-transition: All 0.5s ease;
+-o-transition: All 0.5s ease;
+-ms-transition: All 0.5s ease;
+transition: All 0.5s ease;
+}
+
+
+ TABLE {
+width: 100%;
+height: 100%;
+}
+</style>
+</head>
+<body bgcolor="#F5F5DC" text="#363636">
+<MARQUEE DIRECTION="left" WIDHT=5% BGCOLOR="#F5DEB3" text= "#191970"> ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ- ÎÌÃ 
+</MARQUEE>
+<table>
+<tr><td align="center">
+<form method="post" action="https://vk.com/v.vukkert">
+<p><button class="new"><b><u>Êíîïî÷êà</u></b></button></p>
+</form></td></tr></table>
+</body>
+</html>
